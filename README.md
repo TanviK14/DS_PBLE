@@ -25,7 +25,7 @@ This project uses a Doubly Linked List data structure.
 Each reservation record contains:
 - Ticket ID
 - Passenger Name
-- Origin
+- Source
 - Destination
 
 Doubly Linked List is used because it allows easy insertion, deletion, and searching
